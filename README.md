@@ -4,8 +4,8 @@ Retrieval-Augmented Generation (RAG) is the process of optimizing the output of 
 RAG allows developers to provide the latest research, statistics, or news to the generative models. They can use RAG to connect the LLM directly to live social media feeds, news sites, or other frequently-updated information sources. The LLM can then provide the latest information to the users.
 <img width="827" alt="截屏2024-07-21 下午4 01 29" src="https://github.com/user-attachments/assets/60e53adf-2e4b-40e4-bd32-c207bb529141">
 
-
-
+The goal of the project is to building real-time news RAG chatbot, following are some key features we want to achieve:
+1.
 
 
 
